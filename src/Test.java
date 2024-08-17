@@ -1,2 +1,2 @@
-public class Test str{
+public class Test {
 }
